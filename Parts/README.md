@@ -32,7 +32,7 @@ Likely in the neighborhood of 600VA
 
 This device will use an all-in-one full bridge rectifier I harvested from a dead power supply
 
-It model [#RS3506M by Rectron](https://www.mouser.com/ProductDetail/Rectron/RS3506M?qs=Rd%252BN518myCzj3nm9fZ884A%3D%3D) -> Datasheet
+It model [#RS3506M by Rectron](https://www.mouser.com/ProductDetail/Rectron/RS3506M?qs=Rd%252BN518myCzj3nm9fZ884A%3D%3D) -> [Datasheet](Rectron_RS3501m-rs3507m_datasheet.pdf)
 
 ## Smoothing Capacitor(s)
 
